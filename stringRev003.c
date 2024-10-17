@@ -3,5 +3,8 @@
 
 int main(void)
 {
+    char str[] = "ABC";
+    // strrev(str);
+    printf("%s",strrev(str));
     return;
 }
